@@ -1,0 +1,3 @@
+idEvento,idCliente,tipoEvento,fechaEvento,numeroPersonas,estadoEvento
+1,1,Piñata,2024-03-22,40,Completado
+2,1,Posada,2025-12-15,60,Confirmado

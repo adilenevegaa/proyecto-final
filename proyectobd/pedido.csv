@@ -1,0 +1,4 @@
+idPedido,idCliente,fechaPedido,tipoPedido,estadoPedido.total,metodoPago
+1,0,2024-03-20,Autoservicio,Entregado,75.00,Efectivo
+2,1,2024-03-21,Evento,Completado,800.00,Transferencia
+3,2,2024-03-22,Tradicional,Entregado,120.00,Tarjeta

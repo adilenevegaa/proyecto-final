@@ -1,0 +1,4 @@
+idInventario,idProducto,stockActual,stockMinimo,proveedor
+2,2,180,100,Tortilleria la Pasada
+3,3,45,30,Distribuidora Los Mochis
+6,6,35,15,Varios
